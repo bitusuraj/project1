@@ -177,10 +177,10 @@ Based on the analysis, here are the top 3 actions TechGadget Inc. should take:
 ## 👤 Author
 
 **[Your Name]**
-- 💼 [LinkedIn Profile URL]
-- 📧 [Your Email]
+- 💼 https://www.linkedin.com/in/surajkumarsahub2/
+- 📧 sahusurajkumar943@gmail.com
 
-*Project completed as part of a marketing analytics case study — feedback by [Nesh Kalat](https://www.linkedin.com/in/neshkalat) on LinkedIn.*
+*Project completed as part of a marketing analytics case study — feedback by [Nitish galat](https://www.linkedin.com/in/nitish-galat/) on LinkedIn.*
 
 ---
 
